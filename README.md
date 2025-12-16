@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=あなたのユーザーID&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザーID&layout=compact&theme=radical" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=takahashi-haruto-kiyono&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takahashi-haruto-kiyono&layout=compact&theme=radical" height="150" alt="languages graph" />
   </a>
 </div>
 
